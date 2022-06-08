@@ -7,7 +7,16 @@
 I want to create a npm package. I always have to visit <code>https://www.npmjs.com/</code> when I check package name is registered! And it may not be possible to check. The experience was troublesome and bad. So I publish <code>cnpn</code> tools help me check package name is registered. 😄
 </p>
 
-[![NPM version](https://img.shields.io/npm/v/cnpn?color=a1b858&label=)](https://www.npmjs.com/package/cnpn)
+<p align="center">
+  <a href="https://www.npmjs.com/package/cnpn">
+    <img align="middle" src="https://img.shields.io/npm/v/cnpn/latest">
+  </a>
+  <a href="https://github.com/murongg/cnpn/blob/main/LICENSE">
+    <img align="middle" src="https://img.shields.io/github/license/murongg/cnpn">
+  <a/>
+   <img align="middle" src="https://img.shields.io/bundlephobia/min/cnpn" />
+  <img align="middle" src="https://img.shields.io/github/languages/top/murongg/cnpn">
+</p>
 
 ## 🚀 Usage 
 
