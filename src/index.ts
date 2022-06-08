@@ -14,7 +14,7 @@ if (process.argv.length > 2) {
         consola.success('😊 You can use this package name!')
     }
   }).catch((err) => {
-    if (err.response.status === 404 && err.response.statusText === 'Not Found')
+    if (err.response && err.response.status === 404 && err.response.statusText === 'Not Found')
       consola.log('😊 You can use this package name!')
     else
       consola.success(`😫 ${err}`)
