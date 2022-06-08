@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-I want to create a npm package. I always have to visit <code>https://www.npmjs.com/</code> when I check package name is registered! And it may not be possible to check. The experience was troublesome and bad. So I publish <code>cnpn</code> tools help me check package name is registered. 😄
+I want to create a npm package. I always have to visit <code>https://www.npmjs.com/</code> when I check package name is registered! And it may not be possible to check. The experience was troublesome and bad. So I published <code>cnpn</code> tool to help me check package name was registered. 😄
 </p>
 
 <p align="center">
